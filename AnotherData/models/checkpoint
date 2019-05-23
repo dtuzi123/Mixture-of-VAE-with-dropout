@@ -1,0 +1,2 @@
+model_checkpoint_path: "Dropout_Simple_CIFAR6_Bernoulli"
+all_model_checkpoint_paths: "Dropout_Simple_CIFAR6_Bernoulli"
