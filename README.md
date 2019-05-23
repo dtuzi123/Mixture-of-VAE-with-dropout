@@ -1,7 +1,7 @@
 # Mixture-of-VAE-with-dropout
 This is the implementation of the deep generative mixture autoencoders with dropout.
 
-Deep Mixture Generative Autoencoder
+title:Deep Mixture Generative Autoencoder
 
 abstract:
 
