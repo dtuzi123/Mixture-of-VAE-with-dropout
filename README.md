@@ -1,9 +1,9 @@
 # Mixture-of-VAE-with-dropout
 This is the implementation of the deep generative mixture autoencoders with dropout.
 
-title:Deep Mixture Generative Autoencoder
+# Title:Deep Mixture Generative Autoencoder
 
-abstract:
+# Abstract
 
 Variational autoencoders (VAEs) are powerful deep generative models which
 can capture the variation of data. In this paper, we propose a Mixture of VAE
@@ -21,3 +21,12 @@ we extend the Gumble-Softmax distribution to sample the smooth approximation
 of Bernoulli variables. We perform a series of experiments to demonstrate that each
 component in the mixture model can encode underlying factors and meaningful
 information in different ways, which benefit down-stream tasks and generation.
+
+# Environment
+
+1. Tensorflow 1.5
+2. Python 3.6
+
+# Cite
+
+Ye F, Bors AG. Deep Mixture Generative Autoencoders. IEEE Trans Neural Netw Learn Syst. 2021 Apr 19;PP. doi: 10.1109/TNNLS.2021.3071401. Epub ahead of print. PMID: 33872161.
