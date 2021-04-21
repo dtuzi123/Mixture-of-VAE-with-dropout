@@ -1,7 +1,13 @@
 # Deep Mixture Generative Autoencoder
-This is the implementation of the Deep Mixture Generative Autoencoder.
+This is the implementation of the Deep Mixture Generative Autoencoder. This project also includes the implementation of InforVAEGAN (Please see more details in https://github.com/dtuzi123/InfoVAEGAN).
 
 # Title:Deep Mixture Generative Autoencoder
+
+# Paper link
+
+https://pubmed.ncbi.nlm.nih.gov/33872161/
+
+https://link.springer.com/chapter/10.1007/978-3-030-58565-5_46
 
 # Abstract
 
