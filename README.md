@@ -7,8 +7,6 @@ This is the implementation of the Deep Mixture Generative Autoencoder. This proj
 
 https://pubmed.ncbi.nlm.nih.gov/33872161/
 
-https://link.springer.com/chapter/10.1007/978-3-030-58565-5_46
-
 # Abstract
 
 Variational autoencoders (VAEs) are powerful deep generative models which
